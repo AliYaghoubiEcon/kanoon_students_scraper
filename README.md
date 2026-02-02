@@ -38,9 +38,6 @@ requirements.txt
 
 ---
 
-
----
-
 ## 🚀 Usage
 
 1. Install dependencies:
