@@ -20,17 +20,17 @@ This project scrapes student data from [Kanoon website](https://www.kanoon.ir) u
 
 ---
 
----
-## 📂 Project Structure
 
-data/ # Input files (if any)
+## 📂 Project Structure
+```
+data/                       # Input files (if any)
 results/
-├── per_city/ # Excel per city
-├── merged_all.xlsx # All data merged
-scrape_students.py # Main script
+├── per_city/               # Excel per city
+├── merged_all.xlsx         # All data merged
+scrape_students.py          # Main script
 README.md
 requirements.txt
----
+```
 
 ## 🚀 Usage
 
