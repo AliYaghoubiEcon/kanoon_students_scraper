@@ -20,10 +20,8 @@ This project scrapes student data from [Kanoon website](https://www.kanoon.ir) u
 
 ---
 
-## 📂 Project Structure
-
 ---
-
+## 📂 Project Structure
 
 data/ # Input files (if any)
 results/
@@ -32,10 +30,6 @@ results/
 scrape_students.py # Main script
 README.md
 requirements.txt
-
-
-
-
 ---
 
 ## 🚀 Usage
