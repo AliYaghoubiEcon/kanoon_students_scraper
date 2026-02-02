@@ -21,26 +21,3 @@ This project scrapes student data from [Kanoon website](https://www.kanoon.ir) u
 ---
 
 
-## 📂 Project Structure
-```
-data/                       # Input files (if any)
-results/
-├── per_city/               # Excel per city
-├── merged_all.xlsx         # All data merged
-scrape_students.py          # Main script
-README.md
-requirements.txt
-```
-
-## 🚀 Usage
-
-1. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-
-```
-2. Run the scraper
-```bash
-python scrape_students.py
-
